@@ -1,5 +1,9 @@
 .color-nav {
-    background-color: blueviolet;
-
-
+    background-color: orange;
 }
+
+.card {
+    width: 25rem;
+    background-color: cornsilk;
+}
+
